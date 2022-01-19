@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EVLsvZyWSaSRlZsrz47a4tuvfwakTuQsfXPlWK107WA=",
+  "Source": "HostelWebApi",
+  "BasePath": "_content/HostelWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

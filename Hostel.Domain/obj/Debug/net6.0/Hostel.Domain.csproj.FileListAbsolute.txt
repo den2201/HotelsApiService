@@ -1,0 +1,13 @@
+D:\projects\Hostel\Hostel.Domain\bin\Debug\net6.0\Hostel.Domain.deps.json
+D:\projects\Hostel\Hostel.Domain\bin\Debug\net6.0\Hostel.Domain.dll
+D:\projects\Hostel\Hostel.Domain\bin\Debug\net6.0\ref\Hostel.Domain.dll
+D:\projects\Hostel\Hostel.Domain\bin\Debug\net6.0\Hostel.Domain.pdb
+D:\projects\Hostel\Hostel.Domain\obj\Debug\net6.0\Hostel.Domain.GlobalUsings.g.cs
+D:\projects\Hostel\Hostel.Domain\obj\Debug\net6.0\Hostel.Domain.csproj.AssemblyReference.cache
+D:\projects\Hostel\Hostel.Domain\obj\Debug\net6.0\Hostel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Hostel\Hostel.Domain\obj\Debug\net6.0\Hostel.Domain.AssemblyInfoInputs.cache
+D:\projects\Hostel\Hostel.Domain\obj\Debug\net6.0\Hostel.Domain.AssemblyInfo.cs
+D:\projects\Hostel\Hostel.Domain\obj\Debug\net6.0\Hostel.Domain.csproj.CoreCompileInputs.cache
+D:\projects\Hostel\Hostel.Domain\obj\Debug\net6.0\Hostel.Domain.dll
+D:\projects\Hostel\Hostel.Domain\obj\Debug\net6.0\ref\Hostel.Domain.dll
+D:\projects\Hostel\Hostel.Domain\obj\Debug\net6.0\Hostel.Domain.pdb
